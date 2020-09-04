@@ -1,26 +1,4 @@
 {
-    // ?常用快捷键? //
-    // 中英文标点切换(搜狗输入法快捷键) Ctrl+.
-    // 打开Markdown Preview Enhanced的侧边预览 Ctrl+M
-    // 关闭Markdown Preview Enhanced的侧边预览 Ctrl+2,Ctrl+W
-    // 打开关闭左侧侧边栏 Ctrl+B
-    // 打开新文件夹工作区 Ctrl+K,Ctrl+O
-    // 格式化文档 Ctrl+Shift+I
-    // 查看所有快捷键  Ctrl+K then Ctrl+S
-    // 关闭当前窗口 Ctrl+W
-    // 添加或删除当前行注释 Ctrl+/
-    // 复制当前行 Ctrl+C
-    // 剪切当前行 Ctrl+X
-    // 删除当前行 Ctrl+Shift+K
-    // 搜索 Ctrl+F
-    // 替换 Ctrl+H
-    // 插入新光标 Alt+鼠标左键
-    // 全屏显示 F11
-    // 分割编辑器 Ctrl+\
-    // 移动光标到指定编辑器 Ctrl+1/2/3
-    // 启动终端 Ctrl+`
-    // 匹配所在块括号并来回跳转 Ctrl+Shift+\
-    // 切换到问题选项视图 Ctrl+Shift+M
     // 是否排除显示文件夹或文件
     "files.exclude": {
         "**/.git": true,
